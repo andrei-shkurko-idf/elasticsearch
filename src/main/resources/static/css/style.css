@@ -1,0 +1,8 @@
+input {
+  width: 400px;
+  border-radius: 5px;
+  border-color: #129191;
+}
+input:focus {
+  outline:solid 2px #17adad;
+}
